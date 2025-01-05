@@ -1,0 +1,11 @@
+question,answer
+What is AI?,"AI stands for Artificial Intelligence, which involves creating systems that can perform tasks requiring human intelligence."
+What is GPT-2?,GPT-2 is a large transformer-based language model developed by OpenAI.
+How does machine learning work?,Machine learning involves training algorithms to recognize patterns in data and make predictions or decisions.
+What is the difference between AI and ML?,"AI is a broader concept of machines capable of performing tasks, while ML is a subset focused on learning from data."
+What is transfer learning?,"Transfer learning involves leveraging pre-trained models for new tasks, saving time and resources."
+What are neural networks?,"Neural networks are algorithms inspired by the structure of the human brain, used for tasks like classification and regression."
+How do I fine-tune GPT-2?,Fine-tuning GPT-2 involves training it on a smaller dataset specific to a task while retaining its pre-trained knowledge.
+What is the role of data in AI?,"Data is the backbone of AI, providing the information needed to train models and make predictions."
+What are the types of machine learning?,"The types of machine learning include supervised, unsupervised, and reinforcement learning."
+What is overfitting in ML?,"Overfitting occurs when a model learns the training data too well, failing to generalize to new data."
