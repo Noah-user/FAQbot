@@ -1,4 +1,5 @@
-Overview
+Overview:
+
 The FAQ Bot is an intelligent question-answering system designed to respond to user queries. It leverages a combination of TF-IDF and cosine similarity for retrieving answers from a predefined FAQ dataset and OpenAI GPT for generating fallback answers when no relevant FAQ is found.
 
 Features:
