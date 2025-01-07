@@ -22,7 +22,7 @@ faq_dataset.csv: The FAQ dataset containing question and answer columns. Ensure 
 question,answer
 What is your refund policy?,We offer a 30-day refund policy for unused products.
 How do I reset my password?,You can reset your password by clicking 'Forgot Password' on the login page.
-...
+
 Script File: The Python script implementing the FAQ Bot logic.
 
 How It Works:
